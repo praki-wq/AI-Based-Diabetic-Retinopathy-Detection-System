@@ -11,8 +11,7 @@ CLASS_LABELS = {
     1: "Mild",
     2: "Moderate",
     3: "Severe",
-    4: "Proliferative_DR",
-    5: "Macular Edema"
+    4: "Proliferative_DR"
 }
 
 # --- CoAtNet Model Definition ---
